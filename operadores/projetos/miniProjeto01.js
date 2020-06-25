@@ -1,6 +1,6 @@
 //inverta a sequência da ordem das cores abaixo:
 
-
+/*
 let a = 'vermelho';
 let b = 'verde';
 
@@ -12,4 +12,4 @@ a = c;
 console.log(a);
 console.log(b);
 
-
+*/
